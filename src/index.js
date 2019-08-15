@@ -1,0 +1,8 @@
+import React, {Fragment} from 'react';
+import {
+  View,
+} from 'react-native';
+
+const App = () => <View />
+
+export default App;
